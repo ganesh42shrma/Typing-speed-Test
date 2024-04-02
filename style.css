@@ -11,13 +11,13 @@ body{
     padding: 0 10px;
     align-items: center;
     justify-content: center;
-    background: orange;
+    background: #EFBC9B;
 }
 
 .wrapper{
     width: 770px;
     padding: 35px;
-    background: #fff;
+    background: #FBF3D5;
     border-radius: 10px;
     box-shadow:  0 10px 15px rgba(0,0,0,0.5);
 }
@@ -63,8 +63,8 @@ body{
     width: 105px;
     outline: none;
     border: none;
-    color: #fff;
-    background: orange;
+    color: #9CAFAA;
+    background: #D6DAC8;
     padding: 8px 0;
     font-family:16px ;
     cursor: pointer;

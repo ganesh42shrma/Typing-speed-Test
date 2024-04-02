@@ -74,7 +74,7 @@ if(charIndex < char.length && timeLeft > 0){
     charIndex++;
     char[charIndex].classList.add('active');
        
-    mistakes.innerText =  mistake;
+    mistakes.innerText = mistake;
     cpm.innerText = charIndex - mistake;
 }
     else{

@@ -32,8 +32,7 @@ To get started with the JavaScript Typing Speed Test, follow these steps:
 
 Here's a preview of the JavaScript Typing Speed Test:
 
-![JavaScript Typing Speed Test Preview]![typing test](https://github.com/ganesh42shrma/Typing-speed-Test/assets/89573235/ca3b705d-5f1c-4d3a-9b72-ec7dafd72827)
-()
+![typing test](https://github.com/ganesh42shrma/Typing-speed-Test/assets/89573235/ca3b705d-5f1c-4d3a-9b72-ec7dafd72827)
 
 ## Contributing
 
